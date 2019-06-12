@@ -2,27 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="587c74be-5974-4db7-a799-0fb92e759e19" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fucntion_default.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_docstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_global.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_varargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_using_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_using_sys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymodule_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymodule_demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup_ver1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup_ver2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup_ver3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_str_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_using_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_using_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_using_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io_using_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_simplestclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_subclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opp_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opp_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opp_objvar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstFile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,115 +30,127 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TestPython$firstFile.coverage" NAME="firstFile Coverage Results" MODIFIED="1559789799041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$backup_ver2.coverage" NAME="backup_ver2 Coverage Results" MODIFIED="1560242231779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$fucntion_default.coverage" NAME="fucntion_default Coverage Results" MODIFIED="1560154669048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPython$if.coverage" NAME="if Coverage Results" MODIFIED="1559798589987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$function_return.coverage" NAME="function_return Coverage Results" MODIFIED="1560156315553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPython$function_docstring.coverage" NAME="function_docstring Coverage Results" MODIFIED="1560156886072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$ds_seq.coverage" NAME="ds_seq Coverage Results" MODIFIED="1560223631193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$function_param.coverage" NAME="function_param Coverage Results" MODIFIED="1560153882156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$continue.coverage" NAME="continue Coverage Results" MODIFIED="1560134309349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$opp_objvar.coverage" NAME="opp_objvar Coverage Results" MODIFIED="1560307724805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$module_using_name.coverage" NAME="module_using_name Coverage Results" MODIFIED="1560160790190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$function_varargs.coverage" NAME="function_varargs Coverage Results" MODIFIED="1560156051898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$io_using_file.coverage" NAME="io_using_file Coverage Results" MODIFIED="1560327037731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$function_global.coverage" NAME="function_global Coverage Results" MODIFIED="1560154402285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$oop_subclass.coverage" NAME="oop_subclass Coverage Results" MODIFIED="1560325304741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$firstFile.coverage" NAME="firstFile Coverage Results" MODIFIED="1559789799041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$ds_using_dict.coverage" NAME="ds_using_dict Coverage Results" MODIFIED="1560222638642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$ds_using_tuple.coverage" NAME="ds_using_tuple Coverage Results" MODIFIED="1560221001245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$if.coverage" NAME="if Coverage Results" MODIFIED="1559798589987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$opp_method.coverage" NAME="opp_method Coverage Results" MODIFIED="1560303315749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$ds_using_list.coverage" NAME="ds_using_list Coverage Results" MODIFIED="1560219134477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$function_docstring.coverage" NAME="function_docstring Coverage Results" MODIFIED="1560156886072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$oop_simplestclass.coverage" NAME="oop_simplestclass Coverage Results" MODIFIED="1560303011322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$opp_init.coverage" NAME="opp_init Coverage Results" MODIFIED="1560303526193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$testPython1.coverage" NAME="testPython1 Coverage Results" MODIFIED="1559721398014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$mymodule_demo2.coverage" NAME="mymodule_demo2 Coverage Results" MODIFIED="1560164393890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPython$continue.coverage" NAME="continue Coverage Results" MODIFIED="1560134309349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$ds_reference.coverage" NAME="ds_reference Coverage Results" MODIFIED="1560232402690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$backup_ver1.coverage" NAME="backup_ver1 Coverage Results" MODIFIED="1560240261423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$function_keyword.coverage" NAME="function_keyword Coverage Results" MODIFIED="1560155184348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$function1.coverage" NAME="function1 Coverage Results" MODIFIED="1560153083926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$for.coverage" NAME="for Coverage Results" MODIFIED="1559808120111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$function_local.coverage" NAME="function_local Coverage Results" MODIFIED="1560154045634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPython$module_using_name.coverage" NAME="module_using_name Coverage Results" MODIFIED="1560160790190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$io_input.coverage" NAME="io_input Coverage Results" MODIFIED="1560326495250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$mymodule_demo.coverage" NAME="mymodule_demo Coverage Results" MODIFIED="1560160996029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPython$function_varargs.coverage" NAME="function_varargs Coverage Results" MODIFIED="1560156051898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$ds_str_methods.coverage" NAME="ds_str_methods Coverage Results" MODIFIED="1560233157037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPython$backup_ver3.coverage" NAME="backup_ver3 Coverage Results" MODIFIED="1560302878961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$break.coverage" NAME="break Coverage Results" MODIFIED="1559808506895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$module_using_sys.coverage" NAME="module_using_sys Coverage Results" MODIFIED="1560159622803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPython$while.coverage" NAME="while Coverage Results" MODIFIED="1559803469408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPython$function_global.coverage" NAME="function_global Coverage Results" MODIFIED="1560154402285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fucntion_default.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fucntion_default.py">
+      <file leaf-file-name="ds_using_tuple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ds_using_tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function_keyword.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_keyword.py">
+      <file leaf-file-name="ds_using_dict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ds_using_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function_varargs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_varargs.py">
+      <file leaf-file-name="ds_seq.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ds_seq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="300">
+              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function_return.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_return.py">
+      <file leaf-file-name="ds_str_methods.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ds_str_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function_docstring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_docstring.py">
+      <file leaf-file-name="oop_subclass.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop_subclass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="265">
+              <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module_using_sys.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_using_sys.py">
+      <file leaf-file-name="io_input.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/io_input.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            <state relative-caret-position="150">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module_using_name.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_using_name.py">
+      <file leaf-file-name="io_using_file.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/io_using_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="300">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mymodule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mymodule.py">
+      <file leaf-file-name="io_pickle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/io_pickle.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="poem.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poem.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mymodule_demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mymodule_demo.py">
+      <file leaf-file-name="while.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mymodule_demo2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mymodule_demo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -181,6 +191,23 @@
         <option value="$PROJECT_DIR$/mymodule.py" />
         <option value="$PROJECT_DIR$/mymodule_demo.py" />
         <option value="$PROJECT_DIR$/mymodule_demo2.py" />
+        <option value="$PROJECT_DIR$/ds_using_list.py" />
+        <option value="$PROJECT_DIR$/ds_using_tuple.py" />
+        <option value="$PROJECT_DIR$/ds_using_dict.py" />
+        <option value="$PROJECT_DIR$/ds_seq.py" />
+        <option value="$PROJECT_DIR$/ds_reference.py" />
+        <option value="$PROJECT_DIR$/ds_str_methods.py" />
+        <option value="$PROJECT_DIR$/backup_ver1.py" />
+        <option value="$PROJECT_DIR$/backup_ver2.py" />
+        <option value="$PROJECT_DIR$/backup_ver3.py" />
+        <option value="$PROJECT_DIR$/oop_simplestclass.py" />
+        <option value="$PROJECT_DIR$/opp_method.py" />
+        <option value="$PROJECT_DIR$/opp_init.py" />
+        <option value="$PROJECT_DIR$/opp_objvar.py" />
+        <option value="$PROJECT_DIR$/oop_subclass.py" />
+        <option value="$PROJECT_DIR$/io_input.py" />
+        <option value="$PROJECT_DIR$/io_using_file.py" />
+        <option value="$PROJECT_DIR$/io_pickle.py" />
       </list>
     </option>
   </component>
@@ -205,6 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,7 +244,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,8 +264,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mymodule_demo2">
-    <configuration name="function_docstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.io_using_file">
+    <configuration name="io_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,13 +278,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_docstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/io_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="module_using_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="io_using_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,13 +297,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_using_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/io_using_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="module_using_sys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oop_subclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,13 +316,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_using_sys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop_subclass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mymodule_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="opp_init" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,13 +335,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mymodule_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opp_init.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mymodule_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="opp_objvar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,26 +354,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mymodule_demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opp_objvar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.function_docstring" />
-      <item itemvalue="Python.module_using_sys" />
-      <item itemvalue="Python.module_using_name" />
-      <item itemvalue="Python.mymodule_demo" />
-      <item itemvalue="Python.mymodule_demo2" />
+      <item itemvalue="Python.opp_init" />
+      <item itemvalue="Python.opp_objvar" />
+      <item itemvalue="Python.oop_subclass" />
+      <item itemvalue="Python.io_input" />
+      <item itemvalue="Python.io_using_file" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mymodule_demo2" />
-        <item itemvalue="Python.mymodule_demo" />
-        <item itemvalue="Python.module_using_name" />
-        <item itemvalue="Python.module_using_sys" />
-        <item itemvalue="Python.function_docstring" />
+        <item itemvalue="Python.io_using_file" />
+        <item itemvalue="Python.io_input" />
+        <item itemvalue="Python.oop_subclass" />
+        <item itemvalue="Python.opp_objvar" />
+        <item itemvalue="Python.opp_init" />
       </list>
     </recent_temporary>
   </component>
@@ -385,24 +412,33 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32890365" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32890365" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29900333" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2076412" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30564785" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890365" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.18484849" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.18787879" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32954547" />
       <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.16767372" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -423,7 +459,22 @@
     <MESSAGE value="add a new file firstfile" />
     <option name="LAST_COMMIT_MESSAGE" value="add a new file firstfile" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backup_ver1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testPython1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -530,13 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -617,14 +661,14 @@
     <entry file="file://$PROJECT_DIR$/mymodule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mymodule_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -634,6 +678,151 @@
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_reference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup_ver1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup_ver2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="true" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup_ver3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop_simplestclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opp_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opp_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opp_objvar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_using_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_using_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_using_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_str_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds_seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop_subclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io_using_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io_pickle.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
